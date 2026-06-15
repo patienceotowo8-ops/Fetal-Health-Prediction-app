@@ -33,7 +33,7 @@ st.write(
     "This app predicts the likelihood of fetal health stage using a Random Forest Model."
 )
 
-st.markdown("---"
+st.markdown("---")
 
 st.subheader ("Enter fetal information")
 
